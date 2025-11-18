@@ -1,6 +1,6 @@
 [cell]
 name = "calculator"
-binary = "bin/calculator"
+binary = "target/release/calculator"
 schema = true
 
 [life_cycle]
